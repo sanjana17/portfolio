@@ -1,9 +1,10 @@
 import React from 'react';
+import usa from './../../resources/procsimple.jpeg';
 
 const HomePage = (props) => {
     return (
         <div className="parallax-container">
-            <h1 className="parallax">hello</h1>
+            <img src={usa}/>
         </div>
     )
 }
