@@ -1,19 +1,27 @@
 {
    "languages":[
       {
-         "skill": "HTML",
+         "skill": "JAVASCRIPT",
          "images":[
             {
-               "name":"HTML5",
-               "source":"https://www.stickpng.com/assets/images/5847f5bdcef1014c0b5e489c.png"
+               "name":"JS",
+               "source":"https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png"
             },
             {
-               "name":"JSX",
-               "source":"https://miro.medium.com/max/1200/1*K0a7xINk0RM5gfXGSN68cw.png"
+               "name":"Angular",
+               "source":"https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png"
             },
             {
-               "name":"JSP",
-               "source":"https://www.equinoxitsol.com/images/jsp.png"
+               "name":"React",
+               "source":"https://cdn-images-1.medium.com/max/800/1*qUlxDdY3T-rDtJ4LhLGkEg.png"
+            },
+            {
+               "name":"Node",
+               "source":"https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png"
+            },
+            {
+               "name":"JQuery",
+               "source":"https://cdn.freebiesupply.com/logos/thumbs/2x/jquery-1-logo.png"
             }
          ]
       },
@@ -47,27 +55,19 @@
          ]
       },
       {
-         "skill": "JAVASCRIPT",
+         "skill": "HTML",
          "images":[
             {
-               "name":"JS",
-               "source":"https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png"
+               "name":"HTML5",
+               "source":"https://www.stickpng.com/assets/images/5847f5bdcef1014c0b5e489c.png"
             },
             {
-               "name":"Angular",
-               "source":"https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png"
+               "name":"JSX",
+               "source":"https://miro.medium.com/max/1200/1*K0a7xINk0RM5gfXGSN68cw.png"
             },
             {
-               "name":"React",
-               "source":"https://cdn-images-1.medium.com/max/800/1*qUlxDdY3T-rDtJ4LhLGkEg.png"
-            },
-            {
-               "name":"Node",
-               "source":"https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png"
-            },
-            {
-               "name":"JQuery",
-               "source":"https://cdn.freebiesupply.com/logos/thumbs/2x/jquery-1-logo.png"
+               "name":"JSP",
+               "source":"https://www.equinoxitsol.com/images/jsp.png"
             }
          ]
       },
